@@ -2,7 +2,7 @@ package com.example.lenovo.perusinanemia.dao;
 
 import android.content.Context;
 
-import com.example.asus.myapplication.beans.TamizajeBean;
+import com.example.lenovo.perusinanemia.beans.TamizajeBean;
 
 import java.util.ArrayList;
 
