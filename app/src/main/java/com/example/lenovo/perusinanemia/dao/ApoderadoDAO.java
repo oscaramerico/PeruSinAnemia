@@ -2,7 +2,7 @@ package com.example.lenovo.perusinanemia.dao;
 
 import android.content.Context;
 
-import com.example.asus.myapplication.beans.ApoderadoBean;
+import com.example.lenovo.perusinanemia.beans.ApoderadoBean;
 
 import java.util.ArrayList;
 
